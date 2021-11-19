@@ -1,0 +1,4 @@
+this file created for pratice purpose
+
+
+ls -ltra
